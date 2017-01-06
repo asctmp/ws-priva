@@ -10,5 +10,5 @@
 
 int calcMeaningfulNumber()
 {
-    return 41;
+    return 42;
 }
