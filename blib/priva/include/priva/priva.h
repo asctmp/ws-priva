@@ -8,6 +8,6 @@
 #ifndef __PRIVA_H__
 #define __PRIVA_H__
 
-int PRIVA_returnSomeNumber();
+int PrivA_returnSomeNumber();
 
 #endif /* __PRIVA_H__ */
