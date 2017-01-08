@@ -6,6 +6,6 @@
 [subrepo]
 	remote = git@github.com:asctmp/blib-priva.git
 	branch = master
-	commit = 1323e43cf2fbac37196bdaefbd492535d0de7139
-	parent = 92bc4a42862b7d33b8f572a3a35e9545ef779f5f
+	commit = a1937c5311a1e27e434e6112de4214153fef9b57
+	parent = a4a988ae772919efd6de827676261e131178da8a
 	cmdver = 0.4.0
